@@ -1,4 +1,0 @@
-User-agent: *
-Disallow: 
-
-Sitemap: http://marciniwanicki.github.io/sitemap.xml 
